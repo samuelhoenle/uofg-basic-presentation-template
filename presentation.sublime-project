@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"TEXroot": "presentation.tex",
+		"aux_directory": "aux/",
+		"output_directory": "out/",
+		"copy_output_on_build": true,
+		"builder_settings": {
+			"program": "xelatex"
+		}
+	}
+}

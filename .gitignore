@@ -1,0 +1,8 @@
+# Ignore temporary files
+out/
+
+# Ignore Sublime Text workspace files
+*.sublime-workspace
+
+# Do not check in compiled presentation
+/*.pdf
